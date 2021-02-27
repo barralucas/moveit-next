@@ -1,6 +1,6 @@
 ### link do projeto
 
-<a href="https://pomodoro-moveit-khaki.vercel.app/">pomodoro-moveit</a>
+<a href="https://pomodoro-moveit-khaki.vercel.app/" target="_blank">pomodoro-moveit</a>
 
 
 
